@@ -1,4 +1,4 @@
-# Hi, I'm Nick Roshdieh
+# Hi, I'm Nick
 
 🤖 - Currently working in MLOps and ML Model Development
 
