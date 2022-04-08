@@ -1,3 +1,9 @@
 # Hi, I'm Nick Roshdieh
 
-I'm interested in working on difficult problems. Taking ideas from the first time it's thought up, all the way to deployment. Currently I am working in in applying and deploying ML models and APIs to change the way the construction industry is run.
+🤖 - Currently working in MLOps and ML Model Development
+
+⚡ - Obsessed with distributed systems right now. The future is horizontal!
+
+👨‍💻 - I do Fullstack Freelancing with FastAPI, Django, React, NodeJS, etc.
+
+📻 - IoT & Electronics on the Weekends (Check out my business card, it pulls electricity from the air!)
