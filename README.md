@@ -1,6 +1,6 @@
 # Hi, I'm Nick
 
-- Currently working in MLOps and ML Model Development
+- Currently working in ML development and deployment
 
 - I do Fullstack Freelancing with FastAPI, Django, React, NodeJS, etc.
 
